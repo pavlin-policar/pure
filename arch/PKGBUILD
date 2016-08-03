@@ -2,7 +2,7 @@
 # Maintainer: Pat Brisbin <pbrisbin@gmail.com>
 # Contributor: Emil Falk <emph@emph.se>
 pkgname=zsh-pure-prompt-git
-pkgver=r193.8cb063f
+pkgver=r194.17da0fc
 pkgrel=1
 pkgdesc='A minimal and pure prompt for zsh.'
 arch=('any')
